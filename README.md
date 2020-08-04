@@ -2,7 +2,7 @@
 
 Web developer and Digital Systems and Media student at Federal University of Ceará. :computer: :book: </br>
 
- :email: &nbsp;: [![Linkedin Badge](https://img.shields.io/badge/-GabrielyRodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielyrodrigues/)](https://www.linkedin.com/in/gabrielyrodrigues/) <br/>
+ :email: &nbsp;: [![Linkedin Badge](https://img.shields.io/badge/-GabrielyRodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielyrodrigues/)](https://www.linkedin.com/in/gabrielyrodrigues/) | [![Gmail Badge](https://img.shields.io/badge/-gabyrlima.99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabyrlima.99@gmail.com)](mailto:gabyrlima.99@gmail.com) <br/>
 
 I am passionate about technology and front-end world. </br>
 
